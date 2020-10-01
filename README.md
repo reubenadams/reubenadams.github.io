@@ -1,3 +1,9 @@
+## Education
+- 2018-2020 MSc Applied Mathematics, Stochastics Specialisation, TU Delft
+- 2014-2018 High School Mathematics Teacher, Radley, Oxfordshire
+- 2011-2014 BA Mathematics, Oxford
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/reubenadams/reubenadams.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
