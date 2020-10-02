@@ -6,3 +6,8 @@ I am a PhD student on the [Foundational AI CDT](https://www.ucl.ac.uk/ai-centre/
 - 2018-2020 MSc Applied Mathematics, Stochastics Specialisation, TU Delft
 - 2014-2018 High School Mathematics Teacher, Radley, Oxfordshire
 - 2011-2014 BA Mathematics, Oxford
+
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/reuben-adams-10031b180/)
+- [Twitter](https://twitter.com/ReubenJAdams)
