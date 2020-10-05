@@ -1,6 +1,7 @@
 ## Reuben Adams
 I am a PhD student on the [Foundational AI CDT](https://www.ucl.ac.uk/ai-centre/study/foundational-artificial-intelligence-mphilphd) at UCL, working on PAC-Bayes theory with [Benjamin Guedj](https://bguedj.github.io/team/) and [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/).
 
+I also love PAC-Bayes.
 
 ## Education
 - 2018-2020 MSc Applied Mathematics, Stochastics Specialisation, TU Delft
